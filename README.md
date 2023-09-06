@@ -5,9 +5,9 @@ My name is Gianni Schiralli and I'm a computer programming graduate from Toronto
 I'm a recent computer programming graduate from seneca college 🎓, passionate about full-stack development, front-end, and back-end development. I'm excited about building web applications and solving real-world problems with technology. Currently, I'm actively looking for an internship or junior role to kickstart my career in the tech industry 🚀.
 
 ## Technologies I Work With 🛠️
-- **Front-end**: React, JavaScript, HTML, CSS
-- **Back-end**: Node.js, Express, MYSQL, MongoDB
-- **Framework**: Next.js
+- **Front-end**: React, JavaScript, Typescript, HTML, CSS
+- **Back-end**: Node.js, Python, MYSQL, MongoDB
+- **Framework**: Next.js, Django, Express
 
 ## Projects
 
