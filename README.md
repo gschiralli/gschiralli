@@ -7,7 +7,7 @@ I'm a recent computer programming graduate from seneca college 🎓, passionate 
 ## Technologies I Work With 🛠️
 - **Front-end**: React, JavaScript, Typescript, HTML, CSS
 - **Back-end**: Node.js, Python, MYSQL, MongoDB
-- **Framework**: Next.js, Django, Express
+- **Framework**: Next.js, Express
 
 ## Projects
 
