@@ -13,7 +13,7 @@ I'm a recent computer programming graduate from Seneca College 🎓, passionate 
 
 I'm constantly working on personal and collaborative projects to improve my skills. Here are a few noteworthy projects you might find interesting:
 
-- [Project 1](https://github.com/gschiralli/ask-this-website): AI chatbot with RAG.
+- [Project 1](https://github.com/gschiralli/ask-this-website-chat-bot): AI chatbot with RAG.
 - [Project 2](https://github.com/gschiralli/linked-list-visualizer): linked list visualizer application built with react.
 - [Project 3](https://github.com/gschiralli/Jarvis): AI-Saas that offers a versatile suite of AI tools.
 
